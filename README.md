@@ -1,16 +1,21 @@
-## Hi there 👋
+# 🏭 Manufacturing Analytics Project
 
-<!--
-**madipadigeshravya/madipadigeshravya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Overview  
+This project analyzes **manufacturing operations data** to uncover insights on production efficiency, downtime, and quality metrics.  
+It integrates **MySQL**, **Excel**, **Power BI**, and **Tableau** to clean, store, visualize, and analyze data.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔹 Objectives  
+- Consolidate manufacturing data from multiple sources using MySQL  
+- Clean and transform data in Excel  
+- Build interactive dashboards in Power BI and Tableau  
+- Provide actionable insights for improving manufacturing KPIs  
+
+---
+
+## 🔹 Tools & Technologies  
+- **MySQL** – Data storage and querying  
+- **Excel** – Data cleaning, pivot tables, and initial analysis  
+- **Power BI** – Interactive dashboards  
+- **Tableau** – Advanced visual analytics 
